@@ -1,0 +1,59 @@
+#header {
+    background: #cacaca;
+    font-size: 1.75em;
+    color: linen;
+}
+
+#film-tape {
+    background-color: white;
+    background-repeat: repeat-x;
+    background-image: url("../images/film_tape.png");
+    height: 20px;
+    background-size: 30px 20px;
+}
+
+#videos-container { 
+    /* height: 462px; */
+    height: 175vh;
+}
+
+#left-side {
+    background: #aebccc;
+    width: 25%;
+    height: 100%;
+    float: left;
+}
+
+#right-side {
+    width: 75%;
+    height: 100%;
+    float: right;
+}
+
+#videosContainer {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    /* justify-content: space-around; */
+    width: 100%;
+}
+
+#rating-star {
+    width: 20px;
+}
+
+#footer {
+    height: 75px;
+    background-color: rgb(28, 99, 99);
+}
+
+.contact-icon {
+    height: 25px;
+    height: 25px;
+}
+
+#btn {
+    font-size: 0.75em;
+    font-weight: 900;
+    padding: 1px 10px;
+}

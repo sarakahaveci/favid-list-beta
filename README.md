@@ -14,6 +14,7 @@ npm install @material-ui/lab<br/>
 npm install @material-ui/core<br/>
 npm install router<br/>
 npm install --save mdbreact<br/>
+npm install react-switch<br/>
 npm install<hr/>
 
 # How to use:
